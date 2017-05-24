@@ -1,3 +1,18 @@
+A una máquina virtual de linux añadirle dos discos duros:
+
+disco A
+Crear las siguientes particiones:
+Linux
+Fat
+disco B
+Crear las siguientes particiones:
+Linux
+NTFS
+Fat
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
 Cada hora en punto ejecutamos la sincronización horaria y mandamos la salida a /dev/null/
 
 0 * * * * root /usr/sbin/ntpdate > /dev/null 
