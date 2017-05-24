@@ -50,6 +50,6 @@ Programar un trabajo (H) para ejecutarse cada primer día de mes a las 00:00h.
 
 date >>  /etc/trabajos  
 
-El trabajo que se debe ejecutar es:
+El trabajo que se tiene que ejecutar es:
 
-Añadir al fichero /etc/trabajos (no existe hay que crearlo) el código del trabajo y la hora de ejecución.
+Añadir al fichero /etc/trabajos (no existe, tenemos que crearlo) el código del trabajo y la hora de ejecución.
