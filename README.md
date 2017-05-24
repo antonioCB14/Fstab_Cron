@@ -10,7 +10,7 @@ Linux
 NTFS
 Fat
 
-<img src="Fstab_Cron/fstab.png" />
+<img src="https://github.com/antonioCB14/Fstab_Cron/blob/master/fstab.png" />
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
